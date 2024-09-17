@@ -89,8 +89,8 @@ O projeto está dividido em módulos para organizar melhor o desenvolvimento e f
 
 - Utilize `pyenv` para gerenciar e definir a versão correta do Python:
   ```bash
-  pyenv install 3.12.1
-  pyenv local 3.12.1
+  pyenv install 3.11.2
+  pyenv local 3.11.2
   ```
 
 #### **3. Criar um Ambiente Virtual**
@@ -98,7 +98,7 @@ O projeto está dividido em módulos para organizar melhor o desenvolvimento e f
 - **Passo:** Crie um ambiente virtual para isolar as dependências do projeto.
 - **Comando:**
   ```bash
-  python3.12 -m venv .venv
+  python -m venv .venv
   ```
 
 #### **4. Entrar no Ambiente Virtual**
@@ -106,7 +106,7 @@ O projeto está dividido em módulos para organizar melhor o desenvolvimento e f
 - **Comando:**
   - **Windows:**
     ```bash
-    .venv\Scripts\activate
+    source .venv/Scripts/activate
     ```
   - **Linux/Mac:**
     ```bash
