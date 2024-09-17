@@ -85,7 +85,7 @@ O projeto está dividido em módulos para organizar melhor o desenvolvimento e f
   git init
   ```
 
-#### **2. Escolher a Versão do Python para 3.12.1**
+#### **2. Escolher a Versão do Python para 3.11.2 ou mais recente**
 
 - Utilize `pyenv` para gerenciar e definir a versão correta do Python:
   ```bash
