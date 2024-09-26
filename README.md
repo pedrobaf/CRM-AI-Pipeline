@@ -149,3 +149,5 @@ O projeto está dividido em módulos para organizar melhor o desenvolvimento e f
 ### **Conclusão**
 
 Este README serve como guia para configurar, entender, e executar o Sistema de CRM e Vendas da ZapFlow. O projeto combina uma série de tecnologias modernas para proporcionar uma solução eficiente e fácil de usar para gestão de vendas. Com módulos bem definidos e documentação clara, o sistema está preparado para evoluir e se adaptar às necessidades dos usuários.
+
+Acesse a aplicação web > https://crmaipipeline.streamlit.app/
